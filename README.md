@@ -1,13 +1,13 @@
 <img width="100%" height="250px" src="https://www.pandaancha.mx/plds/articulos/froala/code%2003-500x281-38415426.gif">
-<h1 align="center"> Mi nombre es Brayan Mendoza. <h1/>
+<h1 align="center"> Mi nombre es Brayan Mendoza. </h1>
 
-<h2 align="center"> Full Stack Web Developer 🖥️<h3/>
+<h2 align="center"> Full Stack Web Developer 🖥️</h2>
 
 <h2>Un poco sobre mi...💬</h2>
 
-<p align="center">📢Tengo 28 años, soy de Merida - Venezuela, me crie en Caracas - Venezuela y actualmente vivo en Buenos Aires- Argentina<p/>
-<p align="center"> Soy cerrajero/Instructor de Kickboxing desde hace mas de 8 años y a finales del 2021 decidi cambiar de rumbo por algo que me apasionara, motivara y retara...<p/>
-<p align="center">Comence a buscar aprender sobre progamacion desde la fecha y he ido explorando, aprendiendo y buscando nuevos retos para crecer en este hermoso mundo que es la  programacion.<p/>
+<p align="center">📢Tengo 28 años, soy de Merida - Venezuela, me crie en Caracas - Venezuela y actualmente vivo en Buenos Aires- Argentina</p>
+<p align="center"> Soy cerrajero/Instructor de Kickboxing desde hace mas de 8 años y a finales del 2021 decidi cambiar de rumbo por algo que me apasionara, motivara y retara...</p>
+<p align="center">Comence a buscar aprender sobre progamacion desde la fecha y he ido explorando, aprendiendo y buscando nuevos retos para crecer en este hermoso mundo que es la  programacion.</p>
 
 
 <h2 align="center">Lenguajes & Herramientas</h2>
@@ -28,18 +28,18 @@
 </p>
 
 <h1 align="center">Proyectos 🖥️👨‍💻</h1>
-<h2 align="center">Museo Patagonico de Ciencias Naturales<h2/>
+<h2 align="center">Museo Patagonico de Ciencias Naturales</h2>
 
 <h4><p> Para el proyecto final del bootcamp de Henry planteamos un Web para controlar y automatizar las actividades y los eventos del museo. Para lograr este objetivo aplicamos las herramientas y los conocimientos aprendidos en la cursada del bootcamp. </p>
-<p>La pagina cuenta con las siguientes funcionalidades:<p/>
+<p>La pagina cuenta con las siguientes funcionalidades:</p>
    
-   <p align="center">- 👨‍💻 Home y Nav Bar con acceso a toda la web.<p/>
-   <p align="center">- 🖥️ Botones de Registro e Ingresar.<p/>
-   <p align="center">- 💻 Carrito de compras de tickets para el acceso a los eventos.<p/>
-   <p align="center">- 👨‍💻 Diferentes Dashboard para los diferentes roles dentro de la web.<p/>
-   <p align="center">- 🕵️ Rutas proteguidas segun el rol del Usuario.<p/>
-   <p align="center">- 📧 Envio de E-mails automaticos.<p/>
-   <p align="center">- 📲 Adaptable a cualquier pantalla.<p/><h4/>
+   <p align="center">- 👨‍💻 Home y Nav Bar con acceso a toda la web.</p>
+   <p align="center">- 🖥️ Botones de Registro e Ingresar.</p>
+   <p align="center">- 💻 Carrito de compras de tickets para el acceso a los eventos.</p>
+   <p align="center">- 👨‍💻 Diferentes Dashboard para los diferentes roles dentro de la web.</p>
+   <p align="center">- 🕵️ Rutas proteguidas segun el rol del Usuario.</p>
+   <p align="center">- 📧 Envio de E-mails automaticos.</p>
+   <p align="center">- 📲 Adaptable a cualquier pantalla.</p></h4>
    
    
 <img src="https://user-images.githubusercontent.com/73863384/223559638-70c21663-5916-44f2-bee0-34d4585041b2.png"/>
