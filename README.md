@@ -6,7 +6,7 @@
 <h2>Un poco sobre mi...💬</h2>
 
 <p align="center">📢Tengo 28 años, soy de Merida - Venezuela, me crie en Caracas - Venezuela y actualmente vivo en Buenos Aires- Argentina</p>
-<p align="center"> Soy cerrajero/Instructor de Kickboxing desde hace mas de 8 años y a finales del 2021 decidi cambiar de rumbo por algo que me apasionara, motivara y retara...</p>
+<p align="center"> A finales del 2021 decidi cambiar de rumbo por algo que me apasionara, motivara y retara...</p>
 <p align="center">Comence a buscar aprender sobre progamacion desde la fecha y he ido explorando, aprendiendo y buscando nuevos retos para crecer en este hermoso mundo que es la  programacion.</p>
 
 
