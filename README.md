@@ -1,6 +1,5 @@
-# Brayan Mendoza | Full Stack Developer 💻
-
 <img width="100%" height="200px" src="https://www.pandaancha.mx/plds/articulos/froala/code%2003-500x281-38415426.gif"/>
+# Brayan Mendoza | Full Stack Developer 💻
 
 ## 🚀 Professional Profile
 
