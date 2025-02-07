@@ -64,7 +64,7 @@ Based in Buenos Aires, Argentina 🇦🇷, I transform complex challenges into e
    <img src="https://res.cloudinary.com/drtikgxr8/image/upload/v1738939365/caferidfer_kgt8yq.png" width="500"/>
 </p>
 
-### 🦕 Museo Patagónico de Ciencias Naturales
+### 🦕 [Museo Patagónico de Ciencias Naturales](https://pf-museo-front-end-pf09henry.vercel.app/)
 - Comprehensive event management system
 - Role-based authentication
 - Automated email notifications
@@ -73,7 +73,7 @@ Based in Buenos Aires, Argentina 🇦🇷, I transform complex challenges into e
   <img src="https://user-images.githubusercontent.com/73863384/223559638-70c21663-5916-44f2-bee0-34d4585041b2.png" width="500"/>
 </p>
 
-### 🌤️ Real-Time Weather Application
+### 🌤️ [Real Time Weather App](https://weather-52j1nztdj-brayanmen.vercel.app/)
 - OpenWeatherMap API integration
 - Dynamic weather data visualization
 - Responsive and intuitive interface
